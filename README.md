@@ -1,4 +1,4 @@
-Il progetto Spesa è lo sviluppo di un tutorial REST per la gestione delle voci di spesa alimentare o di altro.
+Il progetto Spesa è lo sviluppo di un tutorial REST, del prof. Andrea Pollini, per la gestione delle voci di spesa alimentare o di altro.
 Attraverso questa applicazione è possibile gestire, aggiungendo le opportune voci di spesa di cui si necessita, una completa e semplice lista spesa: infatti, ad ogni nuova riga generata
 è possibile, agendo su un semplice flag modificare lo stato dell'articolo, premendo il tasto "cambia" dichiarare se l'articolo va acquistato, oppure è già presente.
 Per una visione migliore e più immediata, sono stati messi in grassetto gli articoli da acquistare.
